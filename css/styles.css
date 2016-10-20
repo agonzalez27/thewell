@@ -9,8 +9,25 @@ body {
   height: 50px;
   width: auto;
   background-color: transparent;
-  /*border: 2px solid white;*/
+  border: 2px solid white;
+}
 
+#home {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+#about {
+    display: inline-block;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ministries {
+    display: inline-block;
+    float: right;
 }
 
 #main {
