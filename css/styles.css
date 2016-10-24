@@ -22,8 +22,8 @@ body {
 #about {
     display: inline-block;
     float: right;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     color: rgba(107,84,71,.9);
     font-size: 20px;
 }
@@ -31,7 +31,7 @@ body {
 #ministries {
     display: inline-block;
     float: right;
-    margin-right: 10px;
+    margin-right: 20px;
     color: rgba(107,84,71,.9);
     font-size: 20px;
 }
